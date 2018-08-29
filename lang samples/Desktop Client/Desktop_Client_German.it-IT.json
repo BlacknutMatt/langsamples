@@ -1,0 +1,259 @@
+{
+    "Looking for a game?": "Suchen Sie ein Spiel?",
+    "No results": "Kein Ergebnis gefunden.",
+    "My list": "Meine Liste",
+    "Video": "Video",
+    "Username": "Benutzername",
+    "Username or Email": "Benutzername oder E-Mail",
+    "Birthdate": "Geburtsdatum",
+    "Firstname": "Vorname",
+    "Lastname": "Nachname",
+    "is": "ist",
+    "UI": {
+        "YES": "Ja",
+        "NO": "Nein",
+        "OK": "Okay",
+        "EMAIL": "E-Mail",
+        "PASSWORD": "Passwort",
+        "OR": "oder",
+        "SEND": "Senden",
+        "CANCEL": "Abbrechen",
+        "CLOSE": "Schließen",
+        "ERROR": "Fehler",
+        "PLAY": "Spielen",
+        "GAMES": "Spiele",
+        "GAME": "Spiel",
+        "PAD": "Gamepad",
+        "KEYMOUSE": "Tastatur",
+        "KEYBOARD": "Tastatur",
+        "MOUSE": "Maus",
+        "UPDATE": "Bearbeiten",
+        "FINISH": "Abschließen",
+        "BIRTHDATE_FORMAT": "TT\/MM\/JJJJ"
+    },
+    "MESSAGE": {
+        "UPDATE_TITLE": "Neue Version",
+        "UPDATE": "Ein Update für v{{version}} ist verfügbar!",
+        "MANUAL_UPDATE_TITLE": "Neue Version",
+        "MANUAL_UPDATE": "Ein Update ist verfügbar. <br> Sie werden auf die Download-Seite der letzten Version weitergeleitet.",
+        "LOGOUT": "Sind Sie sicher, dass Sie sich von Blacknut abmelden möchten? <br>Bitte bestätigen.",
+        "LOGOUT_TITLE": "Abmelden",
+        "AUTHENTICATION_FAILED": "Falsche E-Mail oder falsches Passwort.",
+        "GENERIC_ERROR": "Ein Fehler ist aufgetreten, bitte versuchen Sie es später noch einmal.",
+        "CRITIC_ERROR": "Ein kritischer Fehler ist aufgetreten, bitte starten Sie die Anwendung neu.",
+        "PLAYER_START_ERROR": "Das Spiel konnte nicht gestartet werden, bitte versuchen Sie es später erneut.",
+        "UNSUBSCRIBE": "Sind Sie sicher, dass Sie Ihr Abonnement beenden möchten?",
+        "UNSUBSCRIBE_SUCCESS": "Ihr Abonnement wurde beendet. <br>Sie werden von uns keine Rechnung mehr erhalten. <br><br>>Wir haben Ihnen eine E-Mail geschickt, um dies zu bestätigen. <br><br>Sie können weiterspielen bis {{date}}. <br><br>Wir hoffen, Sie bald wiederzusehen.",
+        "SET_STRIPE_SUCCESS": "Ihre Zahlung war erfolgreich. <br>Danke für Ihr Abonnement.",
+        "UPDATE_ACCOUNT_SUCCESS": "Ihr Konto wurde aktualisiert.",
+        "UPDATE_EMAIL_SUCCESS": "Ihre Anfrage wurde erhalten. Anleitungen zur Durchführung der Änderung wurden an Ihre neue E-Mail-Adresse gesendet.",
+        "UPDATE_PASSWORD_SUCCESS": "Ihr Passwort wurde erfolgreich aktualisiert.",
+        "UPDATE_PASSWORD_ERROR": "Falsches Passwort. Achten Sie darauf, dass Sie Ihr aktuelles Passwort richtig eingeben, um es zu ändern.",
+        "LOST_PASSWORD_DEMAND": "Ihre Anfrage wurde erhalten. Eine E-Mail wurde gesendet, um Ihre Passwortänderung zu bestätigen.",
+        "AUTH_FAILED": "Authentifizierung fehlgeschlagen. Bitte überprüfen Sie Ihr Passwort und versuchen Sie es erneut.",
+        "BIRTHDATE_ERROR": "Falsches Geburtsdatumsformat. Bitte überprüfen Sie das Format Ihres Geburtsdatums und versuchen Sie es erneut.",
+        "INVALID_PASSWORD": "Ungültiges Passwort, bitte überprüfen Sie Ihr Passwort und versuchen Sie es erneut.",
+        "EMAIL_ALLREADY_USE": "Die neue E-Mail-Adresse ist bereits mit einem anderen Blacknut-Konto verknüpft.",
+        "ACCOUNT_LOCKED": "Sie haben versucht, sich dreimal ohne Erfolg anzumelden. <br>Ihr Konto wurde gesperrt. <br>Sie können Ihr Passwort ändern, indem Sie auf &quot;Passwort vergessen&quot; klicken.",
+        "FIELD_REQUIRED": "Dieses Feld muss ausgefüllt werden.",
+        "EMAIL_INVALID": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+        "EMAIL_UPDATE_DIFFERENT_ERROR": "Ihre E-Mail-Adresse muss sich von der jetzigen unterscheiden.",
+        "PASSWORD_UPDATE_DIFFERENT_ERROR": "Ihr Passwort muss sich von dem jetzigen unterscheiden.",
+        "PASSWORD_UPDATE_MISMATCH": "Ihr neues Passwort und die Passwortbestätigung stimmen nicht überein.",
+        "CREDIT_CARD_INVALID": "Die eingegebene Kreditkartennummer ist ungültig.",
+        "EXPIRATION_DATE_INVALID": "Bitte geben Sie das Enddatum Ihrer Kreditkarte ein.",
+        "CVV_INVALID": "Bitte geben Sie den Sicherheitscode auf der Rückseite Ihrer Kreditkarte ein.",
+        "CVV_NOT_MATCHING_CREDIT_CARD_NUMBER": "Bitte geben Sie einen gültigen Sicherheitscode ein.",
+        "UPDATE_CREDIT_CARD_ERROR": "Fehler beim Aktualisieren der Zahlungsinformationen.",
+        "UPDATE_CREDIT_CARD_SUCCESS": "Ihre Kreditkarte wurde aktualisiert.",
+        "UPDATE_DISCOUNT_CODE_SUCCESS": "Ihr Promo-Code ist mit Ihrem Konto verknüpft.",
+        "UPDATE_DISCOUNT_CODE_ERROR": "Fehler beim Aktualisieren des Promo-Codes",
+        "UPDATE_GIFTCARD_SUCCESS": "Ihre Geschenkkarte ist mit Ihrem Konto verknüpft.",
+        "UPDATE_GIFTCARD_ERROR": "Fehler beim Aktualisieren Ihrer Geschenkkarte."
+    },
+    "LOGIN": {
+        "BUTTON_LOGIN_SUBMIT": "Login",
+        "BUTTON_PASSWORD_FORGOTTEN": "Haben Sie Ihr Passwort vergessen?",
+        "BUTTON_PASSWORD_FORGOTTEN_SUBMIT": "Absenden",
+        "BUTTON_BACK_TO_LOGIN": "Zurück zur Login-Seite",
+        "BUTTON_CONFIRM_PASSWORD_SUBMIT": "Passwort bestätigen",
+        "BUTTON_SUBSCRIBE": "Erstellen Sie ein Blacknut-Konto",
+        "LOGIN_TITLE": "Login",
+        "LOGIN_DESCRIPTION": "Sie können sich mit der für die Erstellung Ihres Blacknut-Kontos verwendeten Mailadresse einloggen.",
+        "FORGOTPWD_TITLE": "Haben Sie Ihr Passwort vergessen?",
+        "FORGOTPWD_DESCRIPTION": "Um Ihr Passwort zurückzusetzen, geben Sie bitte die E-Mail-Adresse Ihres Blacknut-Kontos ein.",
+        "MAILSENT_TITLE": "E-Mail gesendet!",
+        "MAILSENT_DESCRIPTION": "Wir haben Ihnen eine E-Mail geschickt, um Ihr Passwort zurückzusetzen.",
+        "LOGIN_INVALID": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+        "PASSWORD_LENGTH_INVALID": "Ihr Passwort muss mindestens 8 Zeichen lang sein.",
+        "ACCOUNT_CREATE_TITLE": "Erstellen Sie ein Blacknut-Konto",
+        "ACCOUNT_CREATE_DESCRIPTION": "Melden Sie sich bei Blacknut an und genießen Sie unseren Service 14 Tage kostenlos und unverbindlich!",
+        "ACCOUNT_CREATE_NEWSLETTER_LABEL": "Ich möchte den Blacknut-Newsletter abonnieren."
+    },
+    "ACCOUNT": {
+        "PAGE_TITLE": "Mein Konto",
+        "PROFILE_BUTTON": "Mein Profil",
+        "PAGE_SUBTITLE_CANT_PLAY": "Um den Spielkatalog zuzugreifen und zu spielen, müssen Sie sich bei Blacknut anmelden. <br> Besuchen Sie <a href='http:\/\/www.blacknut.com'>www.blacknut.com<\/a>",
+        "GAME_LAUNCH_CANT_PLAY": "Es tut uns leid, Ihr Zahlungsmodus ist abgelaufen oder ungültig. Bitte aktualisieren Sie Ihre Zahlungsinformationen, um weiterzuspielen.",
+        "GAME_LAUNCH_1H_LIMIT": "Bitte füllen Sie Ihre Kreditkarteninformationen aus, um Ihre kostenlose Probezeit fortzusetzen. Keine Zahlung vor Ablauf der Probezeit.",
+        "UPDATE_PAYEMENT": "Aktualisieren Sie Ihre Kreditkarte.",
+        "UPDATE_ACCOUNT": "Konto aktualisieren",
+        "OLD_PASSWORD": "Altes Passwort",
+        "NEW_PASSWORD": "Neues Passwort",
+        "CONFIRM_PASSWORD": "Passwort bestätigen",
+        "UPDATE_PASSWORD": "Passwort aktualisieren",
+        "UPDATE_EMAIL": "E-Mail aktualisieren",
+        "NEW_EMAIL": "Neue E-Mail",
+        "BUTTON_CONTACT_US": "Kontaktieren Sie uns",
+        "BUTTON_BUG_REPORT": "Kontakt zum Support",
+        "BUTTON_TERMS": "Siehe Allgemeine Geschäftsbedingungen",
+        "BUTTON_DEVICES_LOGOUT": "Abmelden von allen Geräten",
+        "BUTTON_UNSUBSCRIBE": "Abbestellen",
+        "BUTTON_SUBSCRIBE": "Mein Konto aktivieren",
+        "BUTTON_SETTINGS": "Einstellungen",
+        "BUTTON_LOGOUT": "Abmelden",
+        "BUTTON_FAQ": "Lesen Sie unsere FAQ",
+        "ACCOUNT": {
+            "TITLE": "Mein Konto"
+        },
+        "EMAIL": {
+            "TITLE": "E-Mail"
+        },
+        "DISCOUNT": {
+            "TITLE": "Rabatt"
+        },
+        "PAYMENT": {
+            "TITLE": "Bezahlung"
+        },
+        "SECURITY": {
+            "TITLE": "Sicherheit"
+        },
+        "VARIOUS": {
+            "TITLE": "Andere"
+        }
+    },
+    "SETTINGS": {
+        "PAGE_TITLE": "Einstellungen",
+        "CHANGE_THEME": "Thema wechseln",
+        "BLACK_COLOR": "Schwarz",
+        "WHITE_COLOR": "Weiß",
+        "PROTOCOL_CHANGED": "Protokoll geändert in { {env} }",
+        "DEBUG_CHANGED": "Debug geändert auf { {debug} }",
+        "PLAYER_DEBUG_CHANGED": "Player-Debug auf { {debug} } geändert",
+        "PLATFORM_CHANGED": "Plattform geändert, Neustart jetzt auf { {Plattform} }"
+    },
+    "SUBSCRIPTION": {
+        "PAGE_TITLE": "Abonnement",
+        "RENEW_CARD": "Um Ihre Kreditkarteninformationen zu ändern, füllen Sie bitte die unten stehenden Felder aus. <br><br> Blacknut speichert keine Kreditkarteninformationen. <br>Die Übertragung dieser Informationen erfolgt auf sichere Weise.",
+        "CARD_NUMBER": "Zahlungsinformationen aktualisieren",
+        "CARD_DATE": "Ablaufdatum",
+        "CARD_CVC": "CVC",
+        "BUTTON_SAVE_CARD": "Karte speichern"
+    },
+    "PAYMENT": {
+        "CARD_TYPES_LABEL": "Akzeptierte Karten",
+        "PAYMENT_METHOD": "Zahlungsmethode",
+        "CREDIT_CARD_NUMBER": "Kreditkartennummer",
+        "CREDIT_CARD_NUMBER_PLACEHOLDER": "xxxx xxxx xxxx xxxx xxxx xxxx",
+        "EXPIRATION_DATE": "Ablaufdatum",
+        "EXPIRATION_DATE_EXAMPLE": "MM\/YY",
+        "SECURITY_CODE": "Sicherheitscode",
+        "SECURITY_CODE_PLACEHOLDER": "xxx",
+        "CARD_HOLDER": "Name des Karteninhabers",
+        "ZIP_CODE": "Postleitzahl",
+        "NO_PAYMENT_METHOD": "Keine Zahlungsmethode angegeben.",
+        "COUPON": "Promo-Code"
+    },
+    "DISCOUNT": {
+        "NO_DISCOUNT": "Für dieses Konto ist kein Rabatt aktiviert.",
+        "COUPON": {
+            "TAB_TITLE": "Ich habe einen Promo-Code",
+            "LABEL": "Promo-Code",
+            "PLACEHOLDER": "Promo-Code"
+        },
+        "GIFTCARD": {
+            "TAB_TITLE": "Ich habe eine Geschenkkarte",
+            "LABEL": "Geschenkkarte",
+            "PLACEHOLDER": "Geschenkkarte"
+        }
+    },
+    "MENU": {
+        "SEARCH": "Suche",
+        "FAVORITES": "Meine Liste",
+        "LAST_PLAYED": "Zuletzt gespielt",
+        "SETTINGS": "Einstellungen"
+    },
+    "LATENCY": {
+        "TITLE": "Verbindungsgeschwindigkeitstest",
+        "TEST_FAILED": "Wir haben Ihre Internetverbindung getestet und die Verbindungsqualität ist nicht optimal. <br><br> Versuchen Sie bei einer Wifi-Verbindung, so nah wie möglich an den Router heranzurücken. Mit einem RJ45-Ethernet-Netzwerkkabel können Sie Ihr Spielerlebnis optimieren.",
+        "TEST_BUSY": "",
+        "TEST_TIMEOUT": "Beim Testen der Bandbreite ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
+        "BUTTON_RETRY": "Nochmal versuchen",
+        "NETWORK_TEST_MESSAGE": "Testnetzwerk",
+        "NETWORK_TEST_SUCCESS": "Erfolg",
+        "NETWORK_TEST_ERROR": "Fehler",
+        "POPUP_TITLE": "Netzwerktest"
+    },
+    "FEEDBACK": {
+        "TITLE": "Danke fürs Spielen.",
+        "SUBTITLE": "Für die Beta-Version benötigen wir Ihre Mithilfe. Könnten Sie Ihr Spielerlebnis bewerten, um die Servicequalität von Blacknut zu verbessern?",
+        "VIDEO_QUALITY": "Video-Qualität",
+        "AUDIO_QUALITY": "Audio-Qualität",
+        "CONTROL_QUALITY": "Bewegungsreaktivität",
+        "MESSAGE": "Kommentar (optional)",
+        "THANKS": "Vielen Dank für Ihre Teilnahme",
+        "THANKS_TITLE": "Danke"
+    },
+    "TERMS": {
+        "PAGE_TITLE": "Allgemeine Geschäftsbedingungen"
+    },
+    "BUG_REPORT": {
+        "VERSION": "Version der Anwendung",
+        "PAGE_TITLE": "Kontakt zum Support",
+        "MESSAGE": "Nachricht",
+        "BUG_REPORT_SUCCESS": "Ihre Nachricht wurde gesendet. <br>Unsere Mitarbeiter werden Ihre Anfrage so schnell wie möglich bearbeiten."
+    },
+    "GAME_DETAIL": {
+        "ADD_FAVORITE": "Zu Favoriten hinzufügen",
+        "REMOVE_FAVORITE": "Aus Favoriten entfernen",
+        "SEE_VIDEO": "Video-Teaser ansehen",
+        "QUIT_VIDEO": "Video beenden",
+        "DESC": "Spielbeschreibung"
+    },
+    "OFFLINE": {
+        "TEXT": "<p>Der Inhalt wurde nicht heruntergeladen. <br><br>Sie können Ihre Verbindung überprüfen, bevor Sie es erneut versuchen.<\/p>",
+        "REFRESH": "Nochmal versuchen"
+    },
+    "DISCONNECT_DEVICE": {
+        "TITLE": "Abmelden von allen Geräten",
+        "MESSAGE": "Sind Sie sicher, dass Sie sich von allen Geräten abmelden wollen? <br>Bitte bestätigen.",
+        "SUCCESS": "Alle Ihre Geräte wurden abgemeldet."
+    },
+    "CLOSE_APP": {
+        "TITLE": "Blacknut schließen",
+        "MESSAGE": "Sind Sie sicher, dass Sie die Anwendung schließen wollen? <br>Bitte bestätigen.",
+        "BUTTON": "Schließen"
+    },
+    "APP_TIPS": {
+        "SKIP_LABEL": "Diesen Tipp nicht noch einmal zeigen."
+    },
+    "NETWORK": {
+        "OFFLINE_MESSAGE": "Sie sind offline"
+    },
+    "STRIPE": {
+        "ERRORS": {
+            "incorrect_number": "Die Kartennummer ist falsch.",
+            "invalid_number": "Die Kartennummer ist keine gültige Kreditkartennummer.",
+            "invalid_expiry_month": "Der Ablaufmonat der Karte ist ungültig.",
+            "invalid_expiry_year": "Das Ablaufjahr der Karte ist ungültig.",
+            "invalid_cvc": "Der Sicherheitscode der Karte ist ungültig.",
+            "expired_card": "Die Karte ist abgelaufen.",
+            "incorrect_cvc": "Der Sicherheitscode der Karte ist falsch.",
+            "incorrect_zip": "Die Postleitzahl der Karte konnte nicht verifiziert werden.",
+            "card_declined": "Die Karte wurde abgelehnt.",
+            "missing": "Diese Karte ist mit keinem Kunden verbunden.",
+            "processing_error": "Bei der Verarbeitung der Karte ist ein Fehler aufgetreten.",
+            "rate_limit": "Es trat ein Fehler auf, weil die Anfragen zu schnell auf die API trafen. Bitte lassen Sie es uns wissen, wenn Sie immer wieder auf diesen Fehler stoßen."
+        }
+    }
+}
