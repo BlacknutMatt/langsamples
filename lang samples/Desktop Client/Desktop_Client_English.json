@@ -1,0 +1,259 @@
+{
+    "Looking for a game?": "Looking for a game?",
+    "No results": "No results found.",
+    "My list": "My list",
+    "Video": "Video",
+    "Username": "User name",
+    "Username or Email": "Username or e-mail",
+    "Birthdate": "Birthday",
+    "Firstname": "First name",
+    "Lastname": "Last Name",
+    "is": "is",
+    "UI": {
+        "YES": "Yes",
+        "NO": "No",
+        "OK": "Ok",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "OR": "or",
+        "SEND": "Send",
+        "CANCEL": "Cancel",
+        "CLOSE": "Close",
+        "ERROR": "Error",
+        "PLAY": "Play",
+        "GAMES": "games",
+        "GAME": "game",
+        "PAD": "Gamepad",
+        "KEYMOUSE": "Keyboard",
+        "KEYBOARD": "Keyboard",
+        "MOUSE": "Mouse",
+        "UPDATE": "Edit",
+        "FINISH": "Finish",
+        "BIRTHDATE_FORMAT": "mm/dd/yyyy"
+    },
+    "MESSAGE": {
+        "UPDATE_TITLE": "New version",
+        "UPDATE": "An update to v{{version}} is available!",
+        "MANUAL_UPDATE_TITLE": "New version",
+        "MANUAL_UPDATE": "An update is available.<br> You will be redirected to the download page of the newest version.",
+        "LOGOUT": "Are you sure you want to log out of your Blacknut account?<br>Please confirm.",
+        "LOGOUT_TITLE": "Log out",
+        "AUTHENTICATION_FAILED": "Wrong email or password.",
+        "GENERIC_ERROR": "An error occured, please try again later.",
+        "CRITIC_ERROR": "An critical error occurred, please relaunch the application.",
+        "PLAYER_START_ERROR": "Game failed to start, please try again.",
+        "UNSUBSCRIBE": "Are you sure you want to cancel your subscription?",
+        "UNSUBSCRIBE_SUCCESS": "Your suscription has been cancelled.<br>You will no longer be charged.<br><br>We've sent you a confirmation email.<br><br>You can continue using the service until {{date}}.<br><br>We hope to see you soon.",
+        "SET_STRIPE_SUCCESS": "Your payment was successful.<br>Thank you for subscribing!",
+        "UPDATE_ACCOUNT_SUCCESS": "Your account has been updated.",
+        "UPDATE_EMAIL_SUCCESS": "Your request has been received. Instructions for completing the change have been sent to your new email address.",
+        "UPDATE_PASSWORD_SUCCESS": "Your password has been updated.",
+        "UPDATE_PASSWORD_ERROR": "Wrong password. Please correctly type your current password in order to change it.",
+        "LOST_PASSWORD_DEMAND": "Your password change request has been received. We've sent you an email to confirm the change.",
+        "AUTH_FAILED": "Authentication failed. Please check your password and try again.",
+        "BIRTHDATE_ERROR": "Wrong birthday format. Please check the format and try again.",
+        "INVALID_PASSWORD": "Invalid password, please check your password and try again.",
+        "EMAIL_ALLREADY_USE": "The new email address is already linked to another Blacknut account.",
+        "ACCOUNT_LOCKED": "You've failed 3 login attempts.<br>Your account has been blocked.<br>You can change your password by clicking on \"Forgot password.\"",
+        "FIELD_REQUIRED": "This field is required.",
+        "EMAIL_INVALID": "Please provide a valid email address.",
+        "EMAIL_UPDATE_DIFFERENT_ERROR": "Your new email address must be different from your current one.",
+        "PASSWORD_UPDATE_DIFFERENT_ERROR": "Your new password must be different from your current one.",
+        "PASSWORD_UPDATE_MISMATCH": "The new passwords do not match.",
+        "CREDIT_CARD_INVALID": "The credit card number you entered is invalid.",
+        "EXPIRATION_DATE_INVALID": "Please enter your credit card's expiration date.",
+        "CVV_INVALID": "Please enter the security code on the back of your credit card.",
+        "CVV_NOT_MATCHING_CREDIT_CARD_NUMBER": "Please enter a valid security code.",
+        "UPDATE_CREDIT_CARD_ERROR": "Error updating payment information.",
+        "UPDATE_CREDIT_CARD_SUCCESS": "Your credit card has been updated.",
+        "UPDATE_DISCOUNT_CODE_SUCCESS": "Your promotional code was successfully applied to your account.",
+        "UPDATE_DISCOUNT_CODE_ERROR": "Error updating your promotional code.",
+        "UPDATE_GIFTCARD_SUCCESS": "Your gift card was successfully applied to your account.",
+        "UPDATE_GIFTCARD_ERROR": "Error updating your gift card."
+    },
+    "LOGIN": {
+        "BUTTON_LOGIN_SUBMIT": "Log in",
+        "BUTTON_PASSWORD_FORGOTTEN": "Forgot your password?",
+        "BUTTON_PASSWORD_FORGOTTEN_SUBMIT": "Submit",
+        "BUTTON_BACK_TO_LOGIN": "Back to login page",
+        "BUTTON_CONFIRM_PASSWORD_SUBMIT": "Confirm password",
+        "BUTTON_SUBSCRIBE": "Create a Blacknut account",
+        "LOGIN_TITLE": "Log in",
+        "LOGIN_DESCRIPTION": "Log in with the email you used when you created your Blacknut account.",
+        "FORGOTPWD_TITLE": "Forgot your password?",
+        "FORGOTPWD_DESCRIPTION": "To reset your password, please enter the email associated with your Blacknut account.",
+        "MAILSENT_TITLE": "Email sent!",
+        "MAILSENT_DESCRIPTION": "We sent you an email to reset your password.",
+        "LOGIN_INVALID": "Please provide a valid email address.",
+        "PASSWORD_LENGTH_INVALID": "Your password must be at least 8 characters long.",
+        "ACCOUNT_CREATE_TITLE": "Create a Blacknut account",
+        "ACCOUNT_CREATE_DESCRIPTION": "Subscribe to Blacknut and get 14 days free!",
+        "ACCOUNT_CREATE_NEWSLETTER_LABEL": "I want to subscribe to the Blacknut newsletter"
+    },
+    "ACCOUNT": {
+        "PAGE_TITLE": "My account",
+        "PROFILE_BUTTON": "My profile",
+        "PAGE_SUBTITLE_CANT_PLAY": "To access the game catalog and play you must be a Blacknut subscriber.<br> See you on <a href='http://www.blacknut.com'>www.blacknut.com</a>",
+        "GAME_LAUNCH_CANT_PLAY": "We're sorry, but your payment method has expired or is not valid. Please update your payment information to continue playing.",
+        "GAME_LAUNCH_1H_LIMIT": "Please enter your credit card information in order to continue your free trial. You will not be charged until the end of your trial period.",
+        "UPDATE_PAYEMENT": "Update your credit card",
+        "UPDATE_ACCOUNT": "Update account",
+        "OLD_PASSWORD": "Old password",
+        "NEW_PASSWORD": "New password",
+        "CONFIRM_PASSWORD": "Confirm password",
+        "UPDATE_PASSWORD": "Update password",
+        "UPDATE_EMAIL": "Update email",
+        "NEW_EMAIL": "New email",
+        "BUTTON_CONTACT_US": "Contact us",
+        "BUTTON_BUG_REPORT": "Contact support",
+        "BUTTON_TERMS": "See terms and conditions",
+        "BUTTON_DEVICES_LOGOUT": "Logout from all devices",
+        "BUTTON_UNSUBSCRIBE": "Unsubscribe",
+        "BUTTON_SUBSCRIBE": "Activate my account",
+        "BUTTON_SETTINGS": "Settings",
+        "BUTTON_LOGOUT": "Logout",
+        "BUTTON_FAQ": "Read our FAQ",
+        "ACCOUNT": {
+            "TITLE": "My account"
+        },
+        "EMAIL": {
+            "TITLE": "Email"
+        },
+        "DISCOUNT": {
+            "TITLE": "Discount"
+        },
+        "PAYMENT": {
+            "TITLE": "Payment"
+        },
+        "SECURITY": {
+            "TITLE": "Security"
+        },
+        "VARIOUS": {
+            "TITLE": "Other"
+        }
+    },
+    "SETTINGS": {
+        "PAGE_TITLE": "Settings",
+        "CHANGE_THEME": "Change theme",
+        "BLACK_COLOR": "Black",
+        "WHITE_COLOR": "White",
+        "PROTOCOL_CHANGED": "Protocol changed to {{env}}",
+        "DEBUG_CHANGED": "Debug changed to {{debug}}",
+        "PLAYER_DEBUG_CHANGED": "Player Debug changed to {{debug}}",
+        "PLATFORM_CHANGED": "Platform changed, reboot now on {{platform}}"
+    },
+    "SUBSCRIPTION": {
+        "PAGE_TITLE": "Subscription",
+        "RENEW_CARD": "To subscribe or change your payment card information, please complete the fields below.<br><br>Blacknut does not keep any payment information.<br>This information is processed in a secure manner.",
+        "CARD_NUMBER": "Update payment method",
+        "CARD_DATE": "Expiration date",
+        "CARD_CVC": "CVC",
+        "BUTTON_SAVE_CARD": "Save card"
+    },
+    "PAYMENT": {
+        "CARD_TYPES_LABEL": "Accepted cards",
+        "PAYMENT_METHOD": "Payment method",
+        "CREDIT_CARD_NUMBER": "Credit card number",
+        "CREDIT_CARD_NUMBER_PLACEHOLDER": "xxxx xxxx xxxx xxxx",
+        "EXPIRATION_DATE": "Expiration date",
+        "EXPIRATION_DATE_EXAMPLE": "MM/YY",
+        "SECURITY_CODE": "Security code",
+        "SECURITY_CODE_PLACEHOLDER": "xxx",
+        "CARD_HOLDER": "Card holder name",
+        "ZIP_CODE": "Zip code",
+        "NO_PAYMENT_METHOD": "No payment method provided.",
+        "COUPON": "Promotional code"
+    },
+    "DISCOUNT": {
+        "NO_DISCOUNT": "No discount activated for this account.",
+        "COUPON": {
+            "TAB_TITLE": "I have a promotional code",
+            "LABEL": "Promotional code",
+            "PLACEHOLDER": "Promotional code"
+        },
+        "GIFTCARD": {
+            "TAB_TITLE": "I have a gift card",
+            "LABEL": "Gift card",
+            "PLACEHOLDER": "Gift card"
+        }
+    },
+    "MENU": {
+        "SEARCH": "Search",
+        "FAVORITES": "My list",
+        "LAST_PLAYED": "Last played",
+        "SETTINGS": "Settings"
+    },
+    "LATENCY": {
+        "TITLE": "Connection speed test",
+        "TEST_FAILED": "We tested your internet connection and the connection quality may be suboptimal.<br><br>If you have a Wi-Fi connection, move as close as possible to your internet router. If you can, using an RJ45 ethernet network cable might optimize your gaming experience.",
+        "TEST_BUSY": "",
+        "TEST_TIMEOUT": "An error occured while trying to test your internet speed, please try again.",
+        "BUTTON_RETRY": "Try again",
+        "NETWORK_TEST_MESSAGE": "Testing network",
+        "NETWORK_TEST_SUCCESS": "Success",
+        "NETWORK_TEST_ERROR": "Error",
+        "POPUP_TITLE": "Network test"
+    },
+    "FEEDBACK": {
+        "TITLE": "Thanks for playing.",
+        "SUBTITLE": "For the beta version, we need your participation. Could you please rate your playing experience in order to enhanced Blacknut's service quality?",
+        "VIDEO_QUALITY": "Video quality",
+        "AUDIO_QUALITY": "Audio quality",
+        "CONTROL_QUALITY": "Movement reactivity",
+        "MESSAGE": "Optional comment",
+        "THANKS": "Thanks for your participation",
+        "THANKS_TITLE": "Thanks"
+    },
+    "TERMS": {
+        "PAGE_TITLE": "Terms and conditions"
+    },
+    "BUG_REPORT": {
+        "VERSION": "Application version",
+        "PAGE_TITLE": "Contact support",
+        "MESSAGE": "Message",
+        "BUG_REPORT_SUCCESS": "Your message has been sent.<br>Our team will process your request as soon as possible."
+    },
+    "GAME_DETAIL": {
+        "ADD_FAVORITE": "Add to favorites",
+        "REMOVE_FAVORITE": "Remove from favorites",
+        "SEE_VIDEO": "View video teaser",
+        "QUIT_VIDEO": "Quit video",
+        "DESC": "Game description"
+    },
+    "OFFLINE": {
+        "TEXT": "<p>The content was not downloaded.<br><br>Please check your internet connection before trying again.</p>",
+        "REFRESH": "Try again"
+    },
+    "DISCONNECT_DEVICE": {
+        "TITLE": "Log out of all my devices",
+        "MESSAGE": "Are you sure you want to log out of all your devices?<br>Please confirm.",
+        "SUCCESS": "You've been logged out of all your devices."
+    },
+    "CLOSE_APP": {
+        "TITLE": "Close Blacknut",
+        "MESSAGE": "Are you sure you want to close the application?<br>Please confirm.",
+        "BUTTON": "Close"
+    },
+    "APP_TIPS": {
+        "SKIP_LABEL": "Do not show this tip again."
+    },
+    "NETWORK": {
+        "OFFLINE_MESSAGE": "You are offline"
+    },
+    "STRIPE": {
+        "ERRORS": {
+            "incorrect_number": "The card number is incorrect.",
+            "invalid_number": "The card number is not a valid credit card number.",
+            "invalid_expiry_month": "The card's expiration month is invalid.",
+            "invalid_expiry_year": "The card's expiration year is invalid.",
+            "invalid_cvc": "The card's security code is invalid.",
+            "expired_card": "The card has expired.",
+            "incorrect_cvc": "The card's security code is incorrect.",
+            "incorrect_zip": "The card's zip code failed validation.",
+            "card_declined": "The card was declined.",
+            "missing": "This card is not associated with any customers.",
+            "processing_error": "An error occurred while processing the card.",
+            "rate_limit": "An error occurred due to requests hitting the API too quickly. Please let us know if you're consistently running into this error."
+        }
+    }
+}
