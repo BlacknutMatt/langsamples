@@ -1,0 +1,436 @@
+{
+    "ACCOUNT_ACTIVATION": {
+        "PASSWORD_POLICY": "8 caractères minimum"
+    },
+    "ACCOUNT_PAYMENT_FORM": {
+        "CARD_HOLDER": "Nom du titulaire de la carte",
+        "CARD_TYPES_LABEL": "Cartes acceptées",
+        "COUPON": "Code de réduction",
+        "CREDIT_CARD_NUMBER": "Numéro de carte bancaire",
+        "CREDIT_CARD_NUMBER_PLACEHOLDER": "xxxx xxxx xxxx xxxx",
+        "CVV": "cvc",
+        "EXPIRATION_DATE": "Date d&#39;expiration",
+        "EXPIRATION_DATE_EXAMPLE": "MMAA",
+        "I_AGREE_THE": "J&#39;ai lu et j&#39;accepte",
+        "PAYMENT_METHOD": "Mode de paiement",
+        "SECURITY_CODE": "Code de sécurité",
+        "SECURITY_CODE_INFO": "Voir au dos de la carte",
+        "SECURITY_CODE_PLACEHOLDER": "xxx",
+        "VISUAL_CRYPTOGRAM": "cryptogramme visuel",
+        "ZIP_CODE": "Code postal"
+    },
+    "BLOG": {
+        "LINK_NAME": "Blog",
+        "NO_ARTICLE_MESSAGE": "Aucun actuellement article, veuillez revenir revenir plus tard !",
+        "TITLE": "Blog"
+    },
+    "CHRISTMAS_PAYMENT": {
+        "DESCRIPTION": "Découvrez un catalogue de jeux fascinants &amp; jouez en 1 clic où que vous soyez ! Merci de remplir le formulaire ci-dessous pour bénéficier ou offrir à un proche notre offre exclusive d’abonnement à Blacknut à prix réduit.",
+        "SUCCESS_END_MESSAGE": "Bon jeu sur Blacknut et à très bientôt !",
+        "SUCCESS_MESSAGE": "Si vous ne recevez pas cet e-mail de confirmation, veuillez vérifier dans le dossier “Spam” (ou “Courrier indésirable”) de votre boîte de messagerie.",
+        "SUCCESS_TITLE": "Merci pour votre commande, un e-mail de confirmation vous a été envoyé avec votre code d’activation.",
+        "TITLE": "Offre exceptionnelle : 1 an d’abonnement à Blacknut à prix réduit !"
+    },
+    "ERRORS": {
+        "AGREE_INVALID": "Veuillez accepter les conditions générales d&#39;utilisation.",
+        "AUTHENTICATION_FAILED": "L&#39;authentification a echoué.",
+        "BIRTHDATE_ERROR": "Mauvais format de date. Merci de réessayer en vérifiant votre date de naissance.",
+        "COUPON_INVALID": "Le coupon est invalide.",
+        "CREDIT_CARD_INVALID": "Le numéro de carte bancaire renseigné est invalide.",
+        "CVV_INVALID": "Veuillez indiquer le code de sécurité de votre carte bancaire.",
+        "CVV_NOT_MATCHING_CREDIT_CARD_NUMBER": "Veuillez indiquer un code de sécurité valide.",
+        "EMAIL_INVALID": "Veuillez saisir une adresse e-mail valide.",
+        "EXPIRATION_DATE_INVALID": "Veuillez renseigner la date d’expiration de votre carte bancaire.",
+        "FIELD_REQUIRED": "Veuillez compléter ce champ.",
+        "PASSWORD_CONFIRMATION_REQUIRED": "Merci de confirmer votre mot de passe.",
+        "PASSWORD_LENGTH_INVALID": "Votre mot de passe doit comporter au moins 8 caractères.",
+        "PASSWORD_REQUIRED": "Veuillez renseigner un mot de passe contenant au moins 8 caractères.",
+        "PASSWORD_UPDATE_INVALID": "Ancien mot de passe incorrect. Merci de réessayer à nouveau.",
+        "PASSWORD_UPDATE_MISMATCH": "Le mot de passe et la confirmation du mot de passe sont différents."
+    },
+    "HOME": {
+        "LINK_NAME": "Accueil",
+        "TITLE": "Bienvenu(e) sur le site Blacknut de gestion de compte"
+    },
+    "LOGIN": {
+        "ACCOUNT_LOCKED": "Votre compte est bloqué, vous devez réinitialiser votre mot de passe.",
+        "CREATE_ACCOUNT": "Créer un compte Blacknut",
+        "DESCRIPTION_0": "Connectez-vous avec l’adresse e-mail utilisée à la création de votre compte Blacknut.",
+        "ERROR": "L&#39;adresse e-mail ou le mot de passe que vous avez entré n&#39;est pas valide. Merci de réessayer.",
+        "LOGIN_LABEL": "Indirizzo e-mail",
+        "LOGIN_PLACEHOLDER": "Votre adresse e-mail",
+        "LOST_YOUR_PASSWORD": "Mot de passe oublié ?",
+        "SUBMIT_LABEL": "il login",
+        "TITLE": "il login"
+    },
+    "LOST_PASSWORD": {
+        "DESCRIPTION_0": "Entrez l&#39;<b>adresse e-mail<b> avec laquelle vous vous êtes inscrit à Blacknut. Nous allons vous envoyer un e-mail avec un lien pour réinitialiser votre mot de passe. Si vous ne recevez pas cet e-mail, il se peut qu&#39;il soit arrivé dans votre dossier &quot;Indésirables&quot;.",
+        "SUCCESS_MESSAGE": "Un e-mail contenant les instructions afin de réinitialiser votre mot de passe vous a été envoyé.",
+        "TITLE": "Vous avez oublié votre mot de passe ?"
+    },
+    "LUIGI": {
+        "APPLICATION_DOWNLOAD": {
+            "LINK_NAME": "Télécharger"
+        },
+        "CATALOG": {
+            "LINK_NAME": "Catalogue"
+        },
+        "CONTACT": {
+            "LINK_NAME": "Nous contacter"
+        },
+        "HOME": {
+            "LINK_NAME": "Accueil"
+        },
+        "LEGAL_NOTICES": {
+            "LINK_NAME": "Mentions légales"
+        },
+        "PRESS": {
+            "LINK_NAME": "Presse"
+        },
+        "PRIVACY": {
+            "LINK_NAME": "Confidentialité"
+        },
+        "SOCIETY": {
+            "LINK_NAME": "Société"
+        },
+        "SUPPORT": {
+            "LINK_NAME": "Aide - FAQ"
+        },
+        "TERMS_CONDITIONS": {
+            "LINK_NAME": "Conditions d&#39;utilisation"
+        }
+    },
+    "NEWSLETTER": {
+        "LINK_NAME": "Newsletter",
+        "SUBSCRIBE_SUCCESS": "Inscription à la newsletter réussie",
+        "SUBSCRIPTION_ERROR": "Une erreur est survenue, veuillez réessayer ou nous contacter",
+        "SUBSCRIPTION_SUCCESS": "Inscription à la newsletter réussie",
+        "TITLE": "Newsletter",
+        "UNSUBSCRIBE_SUCCESS": "Désinscription à la newsletter réussie"
+    },
+    "NONE": "",
+    "PROFILE": {
+        "ACCOUNT": {
+            "TITLE": "Compte"
+        },
+        "BTN_CANCEL": "annullare",
+        "BTN_FINISH": "Terminer",
+        "BTN_UPDATE": "Modifier",
+        "DISCOUNT": {
+            "CODE_SUCCESS": "Votre code promotionnel a été associé à votre compte.",
+            "CODE_TAB": "J&#39;ai un code promo",
+            "COUPON_ACTIVE_UNTIL": "Coupon actif jusqu&#39;au :",
+            "DISCOUNT_CODE": "Mon code de réduction",
+            "GIFT_CARD_SUCCESS": "Votre carte cadeau a été associé à votre compte.",
+            "GIFT_CARD_TAB": "J&#39;ai une carte cadeau",
+            "NO_DISCOUNT": "Aucune réduction activée pour ce compte.",
+            "TITLE": "Réduction"
+        },
+        "LEGAL": {
+            "TITLE": "Légal"
+        },
+        "NEWSLETTER": {
+            "TITLE": "Newsletter"
+        },
+        "PAYMENT": {
+            "CREDIT_CARD_TAB": "Par carte bancaire",
+            "GIFT_CARD_TAB": "J&#39;ai une carte cadeau",
+            "NO_PAYMENT_METHOD": "Aucun moyen de paiement renseigné.",
+            "PAYMENT_BLOCK_LABEL": "Mode de paiement",
+            "RESUBSCRIBE_SUCCESS_MESSAGE": "Votre abonnement a été réactivé avec succès.",
+            "SUBSCRIPTION_INFO": "Le prochain prélèvement sera effectué le {{ date }}.",
+            "TITLE": "Mode de paiement",
+            "UPDATE_CARD_SUCCESS": "Votre carte de crédit a bien été mise à jour."
+        },
+        "SECURITY": {
+            "TITLE": "Securité",
+            "UPDATE_PASSWORD_SUCCESS": "Votre mot de passe a bien été mis à jour."
+        },
+        "SUBSCRIPTION": {
+            "AMAZON_USER_MESSAGE": "Vous avez souscrit Blacknut par Amazon. Pour gérer votre souscription, rendez-vous sur <a target='_blank' href='https:www.amazon.comappstoresubscriptions'>https:www.amazon.comappstoresubscriptions<a>.",
+            "TITLE": "Abonnement"
+        },
+        "TITLE": " ",
+        "UNSUBSCRIBE": {
+            "CANCEL_MESSAGE": "Votre compte a été suspendu à votre demande. Vous pouvez le réactiver à tout moment. Toutes vos progressions dans les jeux sont sauvegardées, vous n&#39;avez rien perdu.",
+            "CONFIRM_MESSAGE": "Voulez-vous vraiment vous désabonner de Blacknut ?",
+            "MODAL_TITLE": "Confirmation du désabonnement",
+            "PLAY_UNTIL_MESSAGE": "Vous pouvez encore jouer jusqu&#39;au {{ date }}.",
+            "SUBSCRIBED_MESSAGE": "Vous êtes abonné.",
+            "SUCCESS": "Vous êtes bien désabonné de Blacknut",
+            "TRIAL_MESSAGE": "Vous bénéficiez de l&#39;offre gratuite jusqu&#39;au {{ date }}.",
+            "UNSUBSCRIBED_MESSAGE": "Votre compte est suspendu. Vous pouvez le réactiver à tout moment. Toutes vos progressions dans les jeux sont sauvegardées, vous n&#39;avez rien perdu."
+        }
+    },
+    "QWANT": {
+        "STEP1_SECTION1_TITLE": "Qwant Junior et Blacknut t&#39;offrent <b>deux heures de jeux vidéo<b> par semaine pendant les grandes vacances d&#39;été !",
+        "STEP1_SECTION3_TEXT": "Blacknut c&#39;est un <b>large catalogue de jeux vidéo pour toute la famille<b>, accessible en un clic sur ton ordinateur et ta télévision. <br>Pas besoin de console, de PC musclé ou de matériel à acheter. <br>Pas dʼinstallation ni de téléchargement des jeux, joue grâce à ta connexion internet. <br>Sauvegarde en ligne de tes parties. <br>Mode multijoueur. <br><b>Un accès illimité et sans engagement pour 14,99€mois !<b>",
+        "STEP1_SECTION2_TITLE": "Demande à tes parents de t&#39;inscrire à Blacknut avec le formulaire ci-dessous et ensuite de télécharger l&#39;application !",
+        "STEP1_SECTION2_FORM_TITLE": "Es-tu prêt·e à jouer ?",
+        "EMAIL": "E-mail d&#39;un de tes parents",
+        "SUBMIT_LABEL": "C&#39;est parti !",
+        "CONFIRMATION": {
+            "DESCRIPTION_0": "<b>Bienvenue sur Blacknut<b><br>Un e-mail de confirmation vous a été envoyé. <br>Il ne vous reste qu&#39;une dernière étape pour commencer à jouer, installer l&#39;application Blacknut sur votre ordinateur etou votre télévision SmartTV.",
+            "DESCRIPTION_1": "<small>Si vous ne recevez pas cet e-mail de confirmation, veuillez vérifier dans le dossier “Spam” (ou “Courrier indésirable”) de votre boîte de messagerie.<small>",
+            "INSTALL_LABEL": "Installer Blacknut"
+        },
+        "LOADING": "chargement",
+        "PASSWORD": "Choisis un mot de passe",
+        "ERRORS": {
+            "ERROR_EMAIL_EXISTS": "L&#39;adresse e-mail renseignée est déjà rattachée à un compte Blacknut. Merci de te connecter à ton compte afin de renseigner ton mode de paiement sur ta page de profil et activer ton abonnement. Aucun paiement n&#39;a été pris en compte sur ce formulaire à ce stade. Tu ne seras ni facturé, ni débité.",
+            "TITLE": "Nous n&#39;avons pas pu créer ton compte Blacknut.",
+            "GENERIC_ERROR": "Une erreur est survenue. Veuillez réessayer plus tard ou <a class='blacknut-link' href='contact'>contactez-nous<a>.",
+            "AGREE_INVALID": "Veuillez accepter les conditions générales d&#39;utilisation.",
+            "AUTHENTICATION_FAILED": "L&#39;authentification a echoué.",
+            "BIRTHDATE_ERROR": "Mauvais format de date. Merci de réessayer en vérifiant votre date de naissance.",
+            "COUPON_INVALID": "Le coupon est invalide.",
+            "CREDIT_CARD_INVALID": "Le numéro de carte bancaire renseigné est invalide.",
+            "CVV_INVALID": "Veuillez indiquer le code de sécurité de votre carte bancaire.",
+            "CVV_NOT_MATCHING_CREDIT_CARD_NUMBER": "Veuillez indiquer un code de sécurité valide.",
+            "EMAIL_INVALID": "Veuillez saisir une adresse e-mail valide.",
+            "EXPIRATION_DATE_INVALID": "Veuillez renseigner la date d’expiration de votre carte bancaire.",
+            "FIELD_REQUIRED": "Veuillez compléter ce champ.",
+            "PASSWORD_CONFIRMATION_REQUIRED": "Merci de confirmer votre mot de passe.",
+            "PASSWORD_LENGTH_INVALID": "Votre mot de passe doit comporter au moins 8 caractères.",
+            "PASSWORD_REQUIRED": "Veuillez renseigner un mot de passe contenant au moins 8 caractères.",
+            "PASSWORD_UPDATE_INVALID": "Ancien mot de passe incorrect. Merci de réessayer à nouveau.",
+            "PASSWORD_UPDATE_MISMATCH": "Le mot de passe et la confirmation du mot de passe sont différents."
+        }
+    },
+    "RESET_EMAIL": {
+        "INVALID_REQUEST": "Une erreur est survenue. Veuillez réessayer plus tard ou contactez-nous.",
+        "NO_TOKEN_ERROR": "Votre token est absent ou invalide",
+        "SUCCESS_MESSAGE": "Votre adresse e-mail a été changée avec succès.",
+        "TITLE": "Changement de votre adresse mail"
+    },
+    "RESET_PASSWORD": {
+        "DESCRIPTION_0": "Merci de saisir un nouveau mot de passe.",
+        "PASSWORD_POLICY": "8 caractères minimum",
+        "RECONNECT": "Me reconnecter",
+        "SUCCESS_MESSAGE": "Votre mot de passe a été réinitialisé avec succès",
+        "TITLE": "Réinitialiser votre mot de passe"
+    },
+    "STRIPE": {
+        "ERRORS": {
+            "card_declined": "La carte a été refusée.",
+            "expired_card": "La carte a expiré.",
+            "incorrect_cvc": "Le code de sécurité de la carte est incorrect.",
+            "incorrect_number": "Le numéro de carte est incorrect.",
+            "incorrect_zip": "La validation du code postal de la carte a échoué.",
+            "invalid_cvc": "Le code de sécurité de la carte n’est pas valide.",
+            "invalid_expiry_month": "Le mois d’expiration de la carte n’est pas valide.",
+            "invalid_expiry_year": "L’année d’expiration de la carte n’est pas valide.",
+            "invalid_number": "Le numéro de carte n’est pas un numéro de carte valide.",
+            "missing": "Aucun client associé à cette carte",
+            "processing_error": "Une erreur est survenue lors du contrôle de la carte.",
+            "rate_limit": "Une erreur est survenue en raison d&#39;un trop grand nombre de requêtes vers le serveur. Veuillez nous contacter si vous rencontrez cette erreur systématiquement.",
+            "parameter_missing": "Les données fournit sont incomplètes."
+        }
+    },
+    "SUBSCRIBE": {
+        "ERRORS": {
+            "ERROR_EMAIL_EXISTS": "L&#39;adresse e-mail renseignée est déjà rattachée à un compte Blacknut. Merci de vous connecter à votre compte afin de renseigner votre mode de paiement sur votre page de profil et activer votre abonnement. Aucun paiement n&#39;a été pris en compte sur ce formulaire à ce stade. Vous ne serez ni facturé, ni débité.",
+            "TITLE": "Nous n&#39;avons pas pu créer votre compte Blacknut."
+        },
+        "STEP_0": {
+            "SUBMIT_BUTTON": "Continuer",
+            "TITLE": "Commencez votre essai gratuit de 14 jours et sans engagement à Blacknut !"
+        },
+        "STEP_1": {
+            "COUPON_TAB": "J&#39;ai un code promo",
+            "DESCRIPTION_0": "Abonnement mensuel (seulement 14,99 €mois), sans engagement, annulable en ligne à tout moment. Annulez avant le {{ userTrialEndDate }} pour ne pas être facturé. Nous vous enverrons un e-mail de rappel 3 jours avant. Si vous disposez d&#39;un code de réduction ou d’une carte cadeau, veuillez remplir le champ prévu à cet effet.",
+            "GIFT_CARD_TAB": "J&#39;ai une carte cadeau",
+            "PAYMENT_TAB": "Mes coordonnées bancaires",
+            "SUBMIT_BUTTON": "Valider mon inscription",
+            "TITLE": "Ajouter un moyen de paiement."
+        },
+        "STEP_2": {
+            "DESCRIPTION_0": "Un e-mail de confirmation vous a été envoyé.",
+            "DESCRIPTION_1": "Si vous ne recevez pas cet e-mail de confirmation, veuillez vérifier dans le dossier “Spam” (ou “Courrier indésirable”) de votre boîte de messagerie.",
+            "TITLE": "Merci {{ firstname }} pour votre inscription à Blacknut."
+        }
+    },
+    "SUBSCRIPTION_MODULE": {
+        "COMMON": {
+            "EMAIL": "E-mail",
+            "PASSWORD": "password",
+            "CREDIT_CARD": "Carte de crédit",
+            "GIFT_CARD": "Carte cadeau",
+            "COUPON_INVALID": "Le coupon est invalide.",
+            "CREDIT_CARD_INVALID": "Le numéro de carte bancaire renseigné est invalide.",
+            "CVV_INVALID": "Veuillez indiquer le code de sécurité de votre carte bancaire.",
+            "CVV_NOT_MATCHING_CREDIT_CARD_NUMBER": "Veuillez indiquer un code de sécurité valide.",
+            "EMAIL_INVALID": "Veuillez saisir une adresse e-mail valide.",
+            "EXPIRATION_DATE_INVALID": "Veuillez renseigner la date d’expiration de votre carte bancaire.",
+            "FIELD_REQUIRED": "Veuillez compléter ce champ.",
+            "PASSWORD_CONFIRMATION_REQUIRED": "Merci de confirmer votre mot de passe.",
+            "PASSWORD_LENGTH_INVALID": "Votre mot de passe doit comporter au moins 8 caractères.",
+            "PASSWORD_REQUIRED": "Veuillez renseigner un mot de passe contenant au moins 8 caractères.",
+            "PASSWORD_UPDATE_INVALID": "Ancien mot de passe incorrect. Merci de réessayer à nouveau.",
+            "PASSWORD_UPDATE_MISMATCH": "Le mot de passe et la confirmation du mot de passe sont différents.",
+            "LOADING": "Chargement",
+            "SECURITY_LABEL": "Ce formulaire est sécurisé et crypté",
+            "CREATE_ACCOUNT_ERROR_TITLE": "Nous sommes désolé mais nous n&#39;avons pas pu créer votre compte",
+            "RETRY": "Riprova"
+        },
+        "STEP_START": {
+            "BTN_LABEL": "Démarrer"
+        },
+        "STEP_ACCOUNT": {
+            "TITLE": "Êtes-vous prêt·e à jouer ?",
+            "SUBTITLE": "<b>Essai gratuit de 14 jours sans engagement. <b><br><br>Créez dès maintenant votre compte en 2 petites étapes. <br><b>C&#39;est rapide et sans frais masqués.<b>",
+            "SUBMIT_LABEL": "Démarrer mon essai gratuit",
+            "ACCOUNT_EXISTS_BTN_LABEL": "J&#39;ai déjà un compte"
+        },
+        "STEP_PAYMENT": {
+            "TITLE": "Votre mode de paiement.",
+            "SUBTITLE": "<b>Essai gratuit de 14 jours sans engagement. <b><br><br>Annulez avant le <b>{{ userTrialEndDate }} pour qu&#39;aucuns frais ne vous soient facturés. <b><br><br>Nous vous enverrons un e-mail de rappel 3 jours avant.",
+            "SUBMIT_LABEL": "Créer mon compte",
+            "CREDIT_CARD": {
+                "TITLE": "Paiement par carte :"
+            },
+            "GIFT_CARD": {
+                "TITLE": "Vous avez une carte cadeau"
+            }
+        },
+        "STEP_AGREEMENTS": {
+            "TITLE": "Vous êtes à 1 clic de jouer !",
+            "SUBMIT_LABEL": "C&#39;est parti !"
+        },
+        "SERVICE_DESCRIPTION": "Un large catalogue de jeux vidéo pour toute la famille, accessible en un clic. <br>Accès illimité et sans engagement pour 14,99€mois.",
+        "SERVICE_DETAILS": "<ul><li>Pas besoin de console ni de PC musclé<li><li>Pas dʼinstallation ni de téléchargement des jeux<li><li>Sauvegarde en ligne de vos parties<li><li>Mode multijoueur<li><li>Des nouveaux jeux toutes les semaines<li><li>Gérez les comptes de votre famille en toute sérénité<li><ul>",
+        "ACCOUNT_CREDIT_CARD_FORM": {
+            "CARD_HOLDER": "Nom du titulaire de la carte",
+            "CARD_TYPES_LABEL": "Paiement par carte :",
+            "COUPON": "Code de réduction",
+            "CREDIT_CARD_NUMBER": "Numéro de carte bancaire",
+            "CREDIT_CARD_NUMBER_PLACEHOLDER": "xxxx xxxx xxxx xxxx",
+            "CVV": "cvc",
+            "EXPIRATION_DATE": "Date d&#39;expiration",
+            "EXPIRATION_DATE_EXAMPLE": "MMAA",
+            "I_AGREE_THE": "J&#39;ai lu et j&#39;accepte",
+            "PAYMENT_METHOD": "Mode de paiement",
+            "SECURITY_CODE": "Code de sécurité",
+            "SECURITY_CODE_INFO": "Voir au dos de la carte",
+            "SECURITY_CODE_PLACEHOLDER": "xxx",
+            "SECURITY_CODE_HELP": "Pour les cartes CB, Visa et MasterCard les 3 chiffres se trouvent à l&#39;arrière de votre carte (image de gauche). <br><br>Pour les cartes American Express les 4 chiffres se trouvent à l&#39;avant de votre carte (image de droite).",
+            "VISUAL_CRYPTOGRAM": "cryptogramme visuel",
+            "ZIP_CODE": "Code postal"
+        },
+        "ACCOUNT_GIFT_CARD_FORM": {
+            "COUPON": "Numéro de la carte cadeau"
+        },
+        "ACCOUNT_AGREEMENTS": {
+            "TERMS_CONDITIONS": "J&#39;ai lu et j&#39;accepte les conditions générales d&#39;utilisation",
+            "DATA_USAGE": "Vous acceptez que Blacknut collecte et utilise les données générées au cours de votre utilisation de la plateforme, dans le respect de notre Politique de confidentialité, dans le but de vous proposer des jeux en adéquation avec cette utilisation.",
+            "TERMS_CONDITIONS_AGREEMENT_INVALID": "Veuillez accepter les conditions générales d&#39;utilisation.",
+            "DATA_USAGE_AGREEMENT_INVALID": "Veuillez accepter la collecte et l&#39;utilisation de vos données."
+        }
+    },
+    "TERMS_CONDITIONS": {
+        "LINK_NAME": "Conditions d&#39;utilisation",
+        "TITLE": "Conditions générales d&#39;utilisation"
+    },
+    "UI": {
+        "ABOUT_US": "a propos",
+        "ADULTS": "adultes",
+        "ALL": "tout",
+        "APPLY_FOR_EARLY_ACCESS": "postulez à l&#39;accès anticipé",
+        "BACK": "retour",
+        "BACK_TO_HOMEPAGE": "retour à la page d&#39;accueil",
+        "BACK_TO_LOGIN": "retour à la connexion",
+        "BIRTHDATE": "date de naissance",
+        "BLACKNUT": "Blacknut",
+        "BLACKNUT_MAIN_WEBSITE": "Site web principal",
+        "BUSINESS": "Business",
+        "CANCEL": "annullare",
+        "CHILDREN": "enfants",
+        "CITY": "ville",
+        "CLIENT_VERSION": "version du client",
+        "CLOSE": "Chiudere",
+        "COMFIRM_NEW_PASSWORD": "Si prega di confermare la nuova password",
+        "COMMUNITY": "Communauté",
+        "COMPANY": "Compagnie",
+        "CONTACT_US": "nous contacter",
+        "COUNTRY": "pays",
+        "COUPON": "Code promo",
+        "DATE_FULL_FORMAT": "jjmmaaaa",
+        "DATE_OF_BIRTH": "date de naissance",
+        "DISABLE": "désactiver",
+        "EMAIL": "E-mail",
+        "EMAIL_ADDRESS": "E-mail",
+        "ENABLE": "activer",
+        "ENGLISH": "anglais",
+        "ERROR_PASSWORD_MINLENGTH": "Le mot de passe est trop court...",
+        "ERROR_PASSWORD_NOT_MATCHES": "Les deux mots de passe ne sont pas identiques. Merci de réessayer.",
+        "EXPIRED": "Expiré",
+        "FACEBOOK": "Facebook",
+        "FIRST_AND_LAST_NAME": "prénom et nom",
+        "FIRSTNAME": "conome",
+        "FOLLOW_US": "Suivez-nous",
+        "FOR": "pour",
+        "FRENCH": "français",
+        "GENERIC_ERROR": "Une erreur est survenue. Veuillez réessayer plus tard ou <a class='blacknut-link' href='contact'>contactez-nous<a>.",
+        "HERE": "ici",
+        "I_NEED_HELP": "j&#39;ai besoin d&#39;aide",
+        "I_SUBSCRIBE": "Je m&#39;abonne",
+        "INSTAGRAM": "Instagram",
+        "INSTALL": "Installer",
+        "LANGUAGES": "Langages",
+        "LASTNAME": "Nome",
+        "LEGAL_NOTICES": "mentions légales",
+        "LEGAL_STATEMENT": "mentions légales",
+        "LOADING": "chargement",
+        "LOGIN": "S&#39;identifier",
+        "LOGOUT": "Se déconnecter",
+        "MENU": "Menu",
+        "MESSAGE": "message",
+        "MORE_POSTS": "plus d&#39;articles",
+        "MY_GIFT_CARD": "Ma carte cadeau",
+        "MY_PERSONNAL_INFO": "Mes identifiants",
+        "NAME": "Nome",
+        "NEW_PASSWORD": "Nouveau mot de passe",
+        "NEWSLETTER": "newsletter",
+        "NEXT": "suivant",
+        "OK": "Ok",
+        "OLD_PASSWORD": "Ancien mot de passe",
+        "OR": "ou",
+        "OTHER": "autre",
+        "PASSWORD": "password",
+        "PAYMENT_METHOD": "Mode de paiement",
+        "PRESS": "presse",
+        "PREVIOUS": "précédent",
+        "PRIVACY_POLICY": "politique de confidentialité",
+        "PROMOTIONAL_CODE": "Code promotionnel",
+        "RE_TYPE_PASSWORD": "Confirmation de mot de passe",
+        "READ_MORE": "voir plus",
+        "REQUIRED_FIELD": "Champ obligatoire",
+        "RESET": "Réinitialiser",
+        "RESUBSCRIBE": "Se réabonner",
+        "SEND": "mandare",
+        "SENT": "envoyé",
+        "SUBJECT": "sujet",
+        "SUBMIT": "soumettre",
+        "SUBMIT_MESSAGE": "envoyer le message",
+        "SUBMITTING": "envoi en cours",
+        "SUBSCRIBE": "abbonarsi",
+        "SUBSCRIBE_TO_NEWSLETTER_LABEL": "Je souhaite m&#39;inscrire à la newsletter",
+        "TEENS": "teens",
+        "TERMS_CONDITIONS": "conditions générales d&#39;utilisation",
+        "THE": "le",
+        "THE_BLACKNUT_TEAM": "l&#39;équipe Blacknut",
+        "TO_CONNECT": "il login",
+        "TO_LOGOUT": "Se déconnecter",
+        "TWITTER": "Twitter",
+        "UNSUBSCRIBE": "Se désabonner",
+        "UNSUBSCRIBE_ME": "Me désabonner",
+        "VALIDATE": "convalidare",
+        "YOUR_PASSWORD": "Votre mot de passe",
+        "ZIPCODE": "code postal"
+    },
+    "UNSUBSCRIBE_NEWSLETTER": {
+        "DESCRIPTION_0": "Vous ne souhaitez plus recevoir de newsletter de la part de Blacknut, merci de confirmer en cliquant sur le bouton &quot;Me désabonner&quot;.",
+        "SUCCESS_MESSAGE": "Votre demande de désabonnement a bien été prise en compte.",
+        "TITLE": "Désabonnement à la newsletter"
+    }
+}
